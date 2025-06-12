@@ -1,0 +1,10 @@
+.iWjQtG .ProseMirror .zheditor-p,
+.iWjQtG .ProseMirror .zheditor-heading,
+.iWjQtG .ProseMirror .zheditor-li {
+  max-width: max-content;
+}
+
+.bKXxES {
+  position: absolute;
+  border-style: none;
+}
